@@ -12,5 +12,5 @@ Feel free to connect with me to see the work I’ve done and the exciting things
 
 📫 **Reach out to me:**
 
-[![Email Badge](https://img.shields.io/badge/GMAIL-grey?style=for-the-badge&logo=gmail)](mahansadeghi6318@gmail.com)
+[![Email Badge](https://img.shields.io/badge/GMAIL-grey?style=for-the-badge&logo=gmail)](gmailto:mahansadeghi6318@gmail.com)
 [![TELEGRAM Badge](https://img.shields.io/badge/TELEGRAM-grey?style=for-the-badge&logo=telegram)](https://t.me/a_si63)
