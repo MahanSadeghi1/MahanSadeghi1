@@ -1,6 +1,6 @@
 # 🌍 "All Masterpieces Are Born Out of Serendipity, Not Intention." 🚀
 
-![Animated GIF](https://github.com/MahanSadeghi1/MahanSadeghi1/blob/main/gif.gif)
+![Animated GIF](https://github.com/MahanSadeghi1/MahanSadeghi1/blob/main/gif.gif?raw=true)
 
 # 👋 I'm [Mahan], an enthusiastic **Back-end Developer** who loves exploring new technologies and pushing the boundaries of what's possible.
 
@@ -11,4 +11,5 @@ My journey is all about discovering new horizons and embracing the challenges th
 Feel free to connect with me or explore my repositories to see the work I’ve done and the exciting things I’m currently working on!
 
 📫 **Reach out to me:**
-[![Email Badge](https://img.shields.io/badge/EMAIL-grey?style=for-the-badge&logo=gmail)](mailto:mahansadeghi6318@gmail.com)
+
+[![Email Badge](https://img.shields.io/badge/GMAIL-grey?style=for-the-badge&logo=gmail)](mailto:mahansadeghi6318@gmail.com)
