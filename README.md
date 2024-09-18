@@ -8,8 +8,9 @@
 
 My journey is all about discovering new horizons and embracing the challenges that come with them. I enjoy experimenting with cutting-edge tools and frameworks to create efficient and scalable solutions.
 
-Feel free to connect with me or explore my repositories to see the work I’ve done and the exciting things I’m currently working on!
+Feel free to connect with me to see the work I’ve done and the exciting things I’m currently working on!
 
 📫 **Reach out to me:**
 
 [![Email Badge](https://img.shields.io/badge/GMAIL-grey?style=for-the-badge&logo=gmail)](mailto:mahansadeghi6318@gmail.com)
+[![TELEGRAM Badge](https://img.shields.io/badge/TELEGRAM-grey?style=for-the-badge&logo=telegram)](https://t.me/a_si63)
