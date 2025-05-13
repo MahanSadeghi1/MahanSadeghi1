@@ -1,4 +1,4 @@
-# 🌍"All Masterpieces Are Born Out of Serendipity, Not Intention."🚀
+# 🌍"Masterpieces are born from curiosity, not control."🚀
 
 ![Animated GIF](https://github.com/MahanSadeghi1/MahanSadeghi1/blob/main/gif.gif?raw=true)
 
