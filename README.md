@@ -9,7 +9,8 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DART Badge](https://img.shields.io/badge/DART-3776AB?style=for-the-badge&logo=DART&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white)
-
+![Nuxt.js Badge](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 My journey is all about discovering new horizons and embracing the challenges that come with them. I enjoy experimenting with cutting-edge tools and frameworks to create efficient and scalable solutions.
 
