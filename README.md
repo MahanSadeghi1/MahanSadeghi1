@@ -18,5 +18,7 @@ Feel free to connect with me to see the work I’ve done and the exciting things
 
 📫 **Reach out to me:**
 
-[![Email Badge](https://img.shields.io/badge/EMAIL-grey?style=for-the-badge&logo=gmail)](mailto:mahansadeghi6318@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abalfazlsadeghi)
+[![Email Badge](https://img.shields.io/badge/EMAIL-grey?style=for-the-badge&logo=gmail)](mailto:abalfazlsadeghi454@gmail.com)
 [![TELEGRAM Badge](https://img.shields.io/badge/TELEGRAM-grey?style=for-the-badge&logo=telegram)](https://t.me/a_si63)
+
